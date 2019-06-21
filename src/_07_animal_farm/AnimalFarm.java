@@ -19,6 +19,19 @@ public class AnimalFarm {
 		/*
 		 * 1. Ask the user which animal they want, then play the sound of that animal.
 		 */
+		String a=JOptionPane.showInputDialog("pick a number 1-5");
+		int b=Integer.parseInt(a);
+		if (b == 1) {
+		
+		} else if (b == 2) {
+			
+		} else if (b == 3) {
+			
+		} else if (b == 4) {
+		
+		} else if (b == 5) {
+			
+		}
 		
 		/* 2. Make it so that the user can keep entering new animals. */
 	}
